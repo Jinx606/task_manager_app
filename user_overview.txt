@@ -1,0 +1,12 @@
+Total users	- 2
+Total tasks	- 4
+
+--------------------------------------------------
+User: admin
+
+Number of user tasks		- 2
+Percentage of total tasks	- 50.00%
+Percentage completed		- 0.00%
+Percentage incomplete		- 100.00%
+Percentage overdue		- 100.00%
+--------------------------------------------------
